@@ -66,10 +66,10 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\033[1;96m ========================================="
 print  """\033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mlove
-\033[1;96mYouTube \033[1;93m: \033[1;92mlovehacker
-\033[1;96mGitHub  \033[1;93m: \033[1;92mhttps://github.com/lovehacker/love
-\033[1;96mpage \033[1;93m: \033[1;92mhttps://www.facebook.com/lovehacker
+\033[1;96mAuthor  \033[1;93m: \033[1;92sanaullah sadiq
+\033[1;96mYouTube \033[1;93m: \033[1;92sanaullah sadiq
+\033[1;96mGitHub  \033[1;93m: \033[1;92mhttps://https://github.com/sanaullahsadiq/lovehacker.
+\033[1;96mpage \033[1;93m: \033[1;92mhttps://www.facebook.com/sanaullah.sadiq.524
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 CorrectUsername = "lovehacker"
@@ -80,10 +80,10 @@ while (loop == 'true'):
     if (username == CorrectUsername):
     	password = raw_input("\033[1;96m \x1b[1;93mPassword Of Tool \x1b[1;96m>>>> ")
         if (password == CorrectPassword):
-            print "Logged in successfully as " + username
+            print "Logged in successfully  mr sanaullah sadiq as " + username
             loop = 'false'
         else:
-            print "Wrong Password"
+            print "Wrong Password mr sanaullah sadiq"
             os.system('xdg-open https://www.facebook.com/Anonymoustricker1')
     else:
         print "Wrong Username"
@@ -264,7 +264,7 @@ def pilih_super():
 	for o in titik:
 		print("\r\033[1;96m[\033[1;97m \033[1;96m] \033[1;93mCracking \033[1;97m"+o),;sys.stdout.flush();time.sleep(1)
 	print
-	print('\x1b[1;96m \x1b[1;93mTo Stop Process Press CTRL Then Press z')
+	print('\x1b[1;96m \x1b[1;93mTo Stop Process Press CTRL Then Press z mr sanaullah sadiq')
 	print 42*"\033[1;96m="
 	
 			
