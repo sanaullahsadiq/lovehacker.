@@ -39,16 +39,16 @@ def jalan(z):
 logo = """
    Asif Javed
    ▄︻̷̿┻̿═━一
-   THE ANONYMOUS lovehacker TRICKER 
+  Sanaullah sadiq the best talent man 
    THE LEGEND ℒℴνℯ
    THE GAME CHANGER ℒℴνℯ
-   pakistani hackers
+   Afghanan  hacker
    ℒℴνℯ ▄︻̷̿┻̿═━一
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mlove
-\033[1;96mYouTube \033[1;93m: \033[1;92mPakistani Hackers
-\033[1;96mGitHub  \033[1;93m: \033[1;92mhttps://github.com/lovehacker/love
-\033[1;96mBlogger \033[1;93m: \033[1;92mhttps://www.facebook.com/lovehacker
+\033[1;96mAuthor  \033[1;93m: \033[1;92m sanaullah sadiq
+\033[1;96mYouTube \033[1;93m: \033[1;92mlove afghanistan https://github.com/sanaullahsadiq
+\033[1;96mGitHub  \033[1;93m: \033[1;92m
+\033[1;96mBlogger \033[1;93m: \033[1;92mhttps://www.facebook.com/sanaullah sadiq
 \033[1;91m======================================="""
 def tik():
 	titik = ['.   ','..  ','... ']
